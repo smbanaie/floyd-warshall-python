@@ -8,6 +8,7 @@ Floyd warshall graph.gif
 
 Print the pair, the distance and (optionally) the path.
 
+<pre>
 Example
 
 pair     dist    path
@@ -23,5 +24,5 @@ pair     dist    path
 4 -> 1     3     4 -> 2 -> 1
 4 -> 2    -1     4 -> 2
 4 -> 3     1     4 -> 2 -> 1 -> 3
-
+</pre>
 

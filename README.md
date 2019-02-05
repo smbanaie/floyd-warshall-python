@@ -1,10 +1,8 @@
 # floyd-warshall-python
+
 [source](https://rosettacode.org/wiki/Floyd-Warshall_algorithm)
 
 The Floyd–Warshall algorithm is an algorithm for finding shortest paths in a weighted graph with positive or negative edge weights.
-
-Find the lengths of the shortest paths between all pairs of vertices of the given directed graph. Your code may assume that the input has already been checked for loops, parallel edges and negative cycles.
-Floyd warshall graph.gif
 
 Print the pair, the distance and (optionally) the path.
 
